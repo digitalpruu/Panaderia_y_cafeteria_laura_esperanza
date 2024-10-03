@@ -64,7 +64,8 @@
       {
         "name": "Instagram",
         "description": "@will_fess",
-        "icon": "/assets/images/insta.png"
+        "icon": "/assets/images/insta.png",
+        "url":""
       },
       {
         "name": "Facebook",
